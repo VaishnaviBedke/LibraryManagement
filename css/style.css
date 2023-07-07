@@ -1055,3 +1055,19 @@ textarea#comment.update_mail::placeholder {
 .dropdown li:hover {
     background-color: #b6d2ca;
 }
+
+.color-dark {
+    color: #111111 !important;
+}
+
+.column {
+    float: left !important;
+    width: 25% !important;
+    padding: 10px !important;
+  }
+  
+/* Clear floats after the columns */
+.row:after {
+    display: table  !important;
+    clear: both  !important;
+}
