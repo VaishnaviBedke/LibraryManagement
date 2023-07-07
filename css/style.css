@@ -1046,3 +1046,12 @@ textarea#comment.update_mail::placeholder {
 .nav-item:hover .hide {
     display: block;
 }
+
+.dropdown li {
+    padding: 14px;
+    background-color: #5daee1;
+}
+
+.dropdown li:hover {
+    background-color: #b6d2ca;
+}
